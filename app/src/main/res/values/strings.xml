@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P37S2120222DSE</string>
+    <string name="titulo">Suma de dos numeros</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">Coloca un numero aqui</string>
+    <string name="place2">Coloca otro numero aqui</string>
+    <string name="lbtncalcula">Calcular</string>
+    <string name="lbtnresta">Restar</string>
+    <string name="lbtnmulti">Multiplicar</string>
+    <string name="lbtndivi">Dividir</string>
+
+    <string name="lresultado">Resultado</string>
+</resources>
